@@ -1,1 +1,1 @@
-web: waitress-serve --port=$PORT cardisle.cardisle.wsgi:application
+web: waitress-serve —port=$PORT nuncio:app
