@@ -1,2 +1,2 @@
 
-web: waitress-serve --port=$PORT routes.wsgi:application
+web: waitress-serve --port=$PORT app.wsgi:application
