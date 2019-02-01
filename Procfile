@@ -1,2 +1,1 @@
-
-web: waitress-serve --port=$PORT Flowers_Talking.wsgi:application
+web: waitress-serve --port=$PORT cardisle.wsgi:application
